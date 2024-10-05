@@ -4,6 +4,9 @@ A mobile application developed for the "Human-Computer Interaction" course at NT
 
 <p float="left">
   <img src="https://github.com/gioxatz/musiqar/blob/app-with-db/img/menu.jpeg" width="100" />
+  <img src="https://github.com/gioxatz/musiqar/blob/app-with-db/img/courses_page.jpeg" width="100" />
   <img src="https://github.com/gioxatz/musiqar/blob/app-with-db/img/course_page.jpeg" width="100" /> 
-  <img src="https://github.com/gioxatz/musiqar/blob/app-with-db/img/piano1.jpeg" width="100" />
+  <img src="https://github.com/gioxatz/musiqar/blob/app-with-db/img/violin" width="115" />
+  <img src="https://github.com/gioxatz/musiqar/blob/app-with-db/img/piano1.jpeg" width="115" />
+  
 </p>
